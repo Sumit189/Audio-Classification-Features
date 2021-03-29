@@ -1,0 +1,10 @@
+README.md
+setup.py
+audio_classification_features/__init__.py
+audio_classification_features/audio_feature_extractor.py
+audio_classification_features.egg-info/PKG-INFO
+audio_classification_features.egg-info/SOURCES.txt
+audio_classification_features.egg-info/dependency_links.txt
+audio_classification_features.egg-info/not-zip-safe
+audio_classification_features.egg-info/requires.txt
+audio_classification_features.egg-info/top_level.txt

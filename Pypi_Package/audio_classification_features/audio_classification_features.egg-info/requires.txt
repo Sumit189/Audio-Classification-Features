@@ -1,0 +1,7 @@
+pandas
+numpy
+tqdm
+scipy
+librosa
+keras
+python_speech_features
