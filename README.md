@@ -1,4 +1,4 @@
-# Audio-Classification-Using-CNN
+# Audio-Classification-Features
 [![Downloads](https://pepy.tech/badge/audio-classification-features)](https://pepy.tech/project/audio-classification-features)
 
 It is made to extract the features from any audio dataset. User's have to provide location of the dataset folder and this library will produce x and y npy files. 
