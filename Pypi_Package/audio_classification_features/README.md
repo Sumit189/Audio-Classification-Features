@@ -1,5 +1,5 @@
 # Audio Classification Features
-It is made to extract the features from any audio dataset. User's have to provide location of the dataset folder and this library will produce x and y npy files. We also provide custom built Keras model for training.
+It is made to extract the features from any audio dataset. User's have to provide location of the dataset folder and this library will produce x and y npy files. You can use these features with the CNN models.
 # Installation
 ```sh
 $ pip install audio_classification_features
@@ -30,7 +30,7 @@ input_shape=(9,13,1)
 from audio_classification_features import audio_features as af
 
 #filename example: audio_test.wav
-#num_classes same as above 
+#num_classes: total number of classes in dataset
 #model
 
 af().make_prediction(filename,num_classes,model)
